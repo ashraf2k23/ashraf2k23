@@ -1,4 +1,4 @@
-# Hi there! I'm [Ashraf ali] 👋
+# Hi there! I'm Ashraf ali 👋
 ```kotlin
 fun welcomeToMyProfile() {
     val userName = "Ashraf Ali"
